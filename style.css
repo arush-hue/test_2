@@ -1,0 +1,19 @@
+body
+{
+    background-color: darkgrey;
+}
+.heading
+{
+    width: 70%;
+    line-height: 2;
+    font-weight: bold;
+    font-size: 30px;
+}
+.name_of_objects
+{
+    color: cornsilk;
+}
+#camera
+{
+    border-style: dotted;
+}
